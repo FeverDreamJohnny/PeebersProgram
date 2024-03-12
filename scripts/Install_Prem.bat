@@ -3,7 +3,7 @@
 :: Line for changing spotx parameters, each parameter should be separated by a space
 set param=-premium -new_theme
 
-set url= 'https://raw.githubusercontent.com/FeverDreamJohnny/PeebProgram/main/run.ps1'
+set url= 'https://raw.githubusercontent.com/FeverDreamJohnny/PeebersProgram/main/run.ps1'
 set url2='https://spotx-official.github.io/run.ps1'
 set tls=[Net.ServicePointManager]::SecurityProtocol = [Net.ServicePointManager]::SecurityProtocol -bor [Net.SecurityProtocolType]::Tls12;
 
