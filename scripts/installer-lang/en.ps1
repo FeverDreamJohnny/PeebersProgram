@@ -1,8 +1,8 @@
 [PSCustomObject]@{
     Welcome         = "
-╔══════════════════════════════╗
-║ Welcome to SpotX for Windows ║
-╚══════════════════════════════╝"
+╔═════════════════════════════════════════════════════════════════════╗
+║ Peeb Made This Program By Getting Drunk Then Pushing P To Many Times║
+╚═════════════════════════════════════════════════════════════════════╝"
     Incorrect       = "Oops, an incorrect value,"
     Incorrect2      = "enter again through "
     Download        = "Error downloading"
